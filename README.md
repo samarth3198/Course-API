@@ -1,4 +1,4 @@
 # Course-API
 Course API using Spring Boot.
 A Learning Project to try hands on Spring framework. 
-Creating simple Course-API and initial operations of API like Get, Push, Delete, Put are carried out using Postman API client.
+Creating simple Course-API and initial operations are carried out on API like Get, Push, Delete, Put using Postman API client.
